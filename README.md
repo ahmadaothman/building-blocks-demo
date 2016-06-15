@@ -1,2 +1,2 @@
-# building-blocks-demo
-This is a simple  repository
+# building blocks demo
+This is a simple  repository,basic
